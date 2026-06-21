@@ -1,0 +1,219 @@
+You are an expert university lecturer, examiner, curriculum analyst, and LaTeX Beamer presentation designer.
+
+I will provide an assignment containing approximately 10 questions.
+
+Your task is NOT to solve the assignment directly.
+
+Instead, perform a deep examination analysis of the assignment and identify what the instructor is actually trying to test.
+
+========================
+PRIMARY OBJECTIVES
+========================
+
+1. Read ALL assignment questions carefully.
+
+2. Categorize every question into:
+   - Core concept tested
+   - Sub-concepts tested
+   - Mathematical skills required
+   - Problem-solving techniques required
+   - Engineering/scientific principles involved
+   - Common mistakes students make
+   - Difficulty level
+
+3. Determine:
+   - Which topics appear repeatedly
+   - Which concepts are most important
+   - Hidden learning outcomes
+   - Professor's likely focus areas
+   - Most exam-relevant sections
+   - High-weight concepts
+   - Frequently recurring patterns
+
+4. Reverse-engineer the examiner's mindset:
+   - What is the professor trying to evaluate?
+   - Which derivations are important?
+   - Which formulas are critical?
+   - Which concepts are likely to appear in exams?
+   - Which shortcuts students should know?
+   - Which assumptions are commonly used?
+
+========================
+DETAILED ANALYSIS
+========================
+
+For each assignment question provide:
+
+Question Number
+
+A. Main Topic
+
+B. Subtopics
+
+C. Theory Being Tested
+
+D. Mathematical Tools Required
+
+E. Why This Question Was Included
+
+F. What The Examiner Wants To Assess
+
+G. Related Exam Topics
+
+H. Similar Variations That Could Appear In Exams
+
+I. Common Traps
+
+J. Important Formulae
+
+K. Required Understanding Level
+
+========================
+TREND ANALYSIS
+========================
+
+After analyzing all questions:
+
+Create a section called:
+
+"Assignment Trend Analysis"
+
+Include:
+
+- Most Frequently Tested Concepts
+- Most Important Equations
+- Most Important Derivations
+- Most Important Assumptions
+- Most Important Diagrams
+- Most Important Definitions
+- Most Important Numerical Methods
+- Most Important Problem Solving Strategies
+- Topics With Highest Probability Of Appearing In Exams
+- Topics With Medium Probability
+- Topics With Low Probability
+
+Provide percentage likelihood estimates.
+
+========================
+EXAM PREDICTION SECTION
+========================
+
+Generate:
+
+1. Predicted Short Questions
+2. Predicted Theory Questions
+3. Predicted Numerical Problems
+4. Predicted Derivation Questions
+5. Predicted Conceptual Questions
+6. Predicted Diagram-Based Questions
+7. Predicted Multiple Choice Questions
+8. Predicted Difficult Questions
+9. Predicted Trick Questions
+10. Predicted Comprehensive Final Exam Questions
+
+Create at least:
+
+- 30 Short Questions
+- 30 Theory Questions
+- 30 Numerical Questions
+- 20 Derivation Questions
+- 20 Conceptual Questions
+
+========================
+EXAMINER INSIGHTS
+========================
+
+Create a section:
+
+"What The Professor Is Actually Testing"
+
+Include:
+
+- Hidden objectives
+- Conceptual depth expected
+- Calculation depth expected
+- Understanding vs memorization ratio
+- Frequently overlooked concepts
+- Typical marking scheme logic
+- Areas where students lose marks
+
+========================
+STUDY GUIDE SECTION
+========================
+
+Create:
+
+1. Last Minute Revision Guide
+
+2. One-Page Cheat Sheet
+
+3. Formula Summary Sheet
+
+4. Important Definitions Sheet
+
+5. Derivation Summary Sheet
+
+6. Problem Solving Framework
+
+7. Exam Hall Strategy
+
+8. Time Management Strategy
+
+9. Common Mistakes Checklist
+
+10. High-Scoring Answer Structure
+
+========================
+EXAM TRICKS & TIPS
+========================
+
+Include:
+
+- Fast solving methods
+- Shortcut techniques
+- Pattern recognition tips
+- Formula selection tips
+- Unit conversion tips
+- Estimation methods
+- Verification methods
+- Common examiner traps
+- How to gain maximum marks
+- How to avoid losing marks
+
+========================
+OUTPUT REQUIREMENTS
+========================
+
+IMPORTANT:
+
+Output ONLY valid, compilable LaTeX Beamer code.
+
+Do NOT output explanations outside the LaTeX code.
+
+Requirements:
+
+- Professional university lecture style
+- Beautiful structure
+- Table of contents
+- Sections and subsections
+- Proper mathematical formatting
+- Use tables where appropriate
+- Use itemized summaries
+- Use colored alert blocks for important exam tips
+- Use example blocks
+- Use theorem/definition style blocks when relevant
+- Create exam-focused slides
+- Create revision-focused slides
+- Create prediction-focused slides
+- Create trend-analysis slides
+- Create examiner-insight slides
+
+The final output should resemble a complete "Exam Preparation Master Guide" generated from the assignment.
+
+Return ONLY the LaTeX Beamer source code and nothing else.
+
+========================
+ASSIGNMENT STARTS BELOW
+========================
+
+[PASTE ASSIGNMENT HERE]

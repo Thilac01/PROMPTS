@@ -1,0 +1,312 @@
+# PERFECT PROMPT – EXAM PREPARATION FROM NOTES / SCREENSHOTS
+
+I am preparing for university examinations.
+
+I will upload one or more of the following:
+
+* Lecture notes
+* Handwritten notes
+* PowerPoint slides
+* Tutorial sheets
+* Assignment questions
+* Past papers
+* Screenshots of lecture content
+* Lab sheets
+* Reference material
+
+Your task is to act as an expert lecturer, examiner, and teaching assistant simultaneously.
+
+---
+
+## PRIMARY OBJECTIVE
+
+Analyze every uploaded page carefully and create a complete exam-oriented study presentation.
+
+The goal is NOT merely to summarize the notes.
+
+The goal is to identify:
+
+1. What concepts are being taught
+2. Why they are important
+3. How they can appear in examinations
+4. Common mistakes students make
+5. Hidden assumptions
+6. Frequently tested derivations
+7. Expected proof-based questions
+8. Numerical problem-solving techniques
+9. Conceptual traps
+10. Examiner thinking patterns
+
+---
+
+## OUTPUT FORMAT REQUIREMENT
+
+Generate ONLY LaTeX Beamer code.
+
+Do NOT provide explanations outside the LaTeX code.
+
+The output must compile directly.
+
+Use:
+
+```latex
+\documentclass{beamer}
+```
+
+Include:
+
+* Professional theme
+* Table of contents
+* Colored boxes
+* Mathematical equations
+* Figures (TikZ when appropriate)
+* Summary slides
+* Revision slides
+* Exam strategy slides
+
+---
+
+## FOR EACH TOPIC IDENTIFIED
+
+Create slides in the following structure.
+
+### 1. Topic Overview
+
+Explain:
+
+* What the topic is
+* Why it exists
+* Physical meaning
+* Engineering interpretation
+* Real-world applications
+
+---
+
+### 2. Core Theory
+
+Provide:
+
+* Definitions
+* Laws
+* Theorems
+* Assumptions
+* Conditions of validity
+
+Include all equations in proper LaTeX.
+
+---
+
+### 3. Step-by-Step Derivations
+
+Show complete derivations.
+
+DO NOT skip algebra.
+
+DO NOT skip substitutions.
+
+DO NOT jump between equations.
+
+For every derivation:
+
+* Explain each step
+* Explain why that step is valid
+* Mention common mistakes
+
+---
+
+### 4. Visual Understanding
+
+Create intuition slides.
+
+Explain:
+
+* Physical interpretation
+* Geometric meaning
+* Graph behavior
+* Parameter effects
+
+Use diagrams whenever possible.
+
+---
+
+### 5. Common Pitfalls
+
+Create dedicated slides:
+
+* Mistakes students frequently make
+* Sign convention errors
+* Unit conversion mistakes
+* Wrong assumptions
+* Boundary condition mistakes
+* Formula misuse
+
+Highlight traps using warning blocks.
+
+---
+
+### 6. Examiner's Perspective
+
+For each topic answer:
+
+* What is the examiner actually testing?
+* Which concepts are most important?
+* Which derivations are favorites?
+* Which equations should be memorized?
+* Which concepts must be deeply understood?
+
+---
+
+### 7. Expected Exam Questions
+
+Generate possible examination questions.
+
+Include:
+
+#### Easy
+
+Basic conceptual questions
+
+#### Medium
+
+Mixed theory and calculations
+
+#### Hard
+
+Multi-step derivations
+
+#### Challenge
+
+Questions requiring deep understanding
+
+---
+
+### 8. Model Answers
+
+Provide detailed answer outlines.
+
+Show:
+
+* Method
+* Required equations
+* Logical sequence
+
+---
+
+### 9. Numerical Problems
+
+Generate original numerical examples.
+
+Include:
+
+* Given data
+* Required assumptions
+* Full solution
+* Final answer
+
+---
+
+### 10. Concept Maps
+
+Create relationships between:
+
+* Definitions
+* Equations
+* Laws
+* Applications
+
+Show how everything connects.
+
+---
+
+## EXAM PREDICTION SECTION
+
+After analyzing ALL uploaded material:
+
+Create a section titled:
+
+### "Most Probable Examination Topics"
+
+Rank topics:
+
+1. Extremely Likely
+2. Very Likely
+3. Likely
+4. Less Likely
+
+Justify rankings.
+
+---
+
+## EXAMINER TREND ANALYSIS
+
+Determine:
+
+* Repeated themes
+* Frequently emphasized equations
+* Repeated derivations
+* Important examples
+* Topics appearing across multiple lectures
+
+Predict what is most likely to be tested.
+
+---
+
+## LAST-MINUTE REVISION SECTION
+
+Create slides containing:
+
+### Must Know Equations
+
+### Must Know Definitions
+
+### Must Know Assumptions
+
+### Must Know Derivations
+
+### Frequently Forgotten Details
+
+### 1-Day Before Exam Checklist
+
+### Night Before Exam Checklist
+
+---
+
+## MEMORY AIDS
+
+For difficult concepts provide:
+
+* Mnemonics
+* Shortcuts
+* Quick recall techniques
+* Visual memory tricks
+
+---
+
+## FINAL MASTER CHEAT SHEET
+
+Create a condensed revision section containing:
+
+* Key formulas
+* Key concepts
+* Common traps
+* Typical questions
+* Important derivations
+
+All within a few slides.
+
+---
+
+## IMPORTANT RULES
+
+1. Analyze every uploaded page.
+2. Never ignore equations.
+3. Never skip derivation steps.
+4. Explain symbols before using them.
+5. Highlight examination importance.
+6. Include expected questions.
+7. Include common mistakes.
+8. Include examiner insights.
+9. Include revision strategies.
+10. Output ONLY COMPLETE LATEX BEAMER CODE.
+
+The final result should feel like a lecturer, examiner, and top student collaboratively produced the ultimate exam-preparation presentation from the uploaded material.

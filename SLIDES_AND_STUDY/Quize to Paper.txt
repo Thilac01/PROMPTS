@@ -1,0 +1,71 @@
+I will upload multiple screenshots (around 20) containing exam questions. Your task is to extract ALL questions accurately and combine them into ONE professional university-style exam paper.
+
+IMPORTANT REQUIREMENTS:
+
+1. Output ONLY LaTeX code.
+2. Do NOT provide explanations, comments, markdown, or any text outside the LaTeX code.
+3. Create a complete, compilable LaTeX document.
+4. Use a clean academic exam-paper format.
+5. Correct OCR mistakes automatically when obvious.
+6. Preserve all mathematical equations, symbols, diagrams descriptions, tables, and units exactly.
+7. Remove duplicate questions if the same question appears in multiple screenshots.
+8. Arrange questions in the correct order based on question numbers.
+9. If a question is partially visible in one screenshot and complete in another, intelligently merge them.
+10. Maintain original marks allocation whenever visible.
+11. Use proper LaTeX environments:
+   - equation
+   - align
+   - table/tabular
+   - enumerate
+   - itemize
+   - figure placeholders when necessary
+12. Convert all mathematical expressions into proper LaTeX math notation.
+13. Create sections if the paper contains:
+   - Part A
+   - Part B
+   - Section I
+   - Section II
+   - Compulsory Questions
+   - Optional Questions
+14. Ensure consistent formatting throughout the paper.
+15. If diagrams are referenced but not fully visible, insert:
+   \begin{figure}[h]
+   \centering
+   \fbox{\parbox{0.8\textwidth}{Diagram referenced in original question.}}
+   \end{figure}
+16. Use professional exam formatting suitable for direct PDF generation.
+
+Use this LaTeX structure:
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{float}
+\usepackage{longtable}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{EXAMINATION PAPER}}\\[0.5em]
+\end{center}
+
+% Insert all extracted questions here
+
+\end{document}
+
+Additional Instructions:
+
+- Verify question numbering carefully.
+- Do not invent missing content.
+- If a word is unreadable, use:
+  [Unreadable Text]
+- If a mathematical symbol is unclear, preserve it as:
+  [Unclear Symbol]
+- Produce a final polished exam paper as if it were the original source document.
+- Output ONLY the final LaTeX code and nothing else.
